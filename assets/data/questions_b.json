@@ -1,0 +1,617 @@
+[
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "Who should first be prioritzed on Zebra Crossing?",
+    "options": ["(a) Male", "(b) Female", "(c) Cattle", "(d) Pedestrian"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "How would one know the speed of the vehicle ahead getting slow?",
+    "options": ["(a) By brake Light.", "(b) Through the driver's gestures", "(c) If the smoke of the silencer is getting less", "(d) None of them"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "Whom should be prioritized while crossing the road?",
+    "options": ["(a) School students", "(b) Physically disabled", "(c) Senior Citizen", "(d) All of the above"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "Which vehicle should be given priority while driving on road?",
+    "options": ["(a) Hearse Van.", "(b) Fire brigade", "(c) Ambulance", "(d) All of the above"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "What should be done to overtake the vehicle moving ahead?",
+    "options": ["(a) By turning on headlight", "(b) By blowing horn", "(c) By turning on side light", "(d) All of the above"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "On which side of the road do people drive their vehicle in Nepal?",
+    "options": ["(a) Right side", "(b) Left side", "(c) whatever side available", "(d) None of the above"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "In which speed is the consumption of fuel low?",
+    "options": ["(a) Slow speed", "(b) Medium speed", "(c) High speed", "(d) Both slow and medium speed"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "What would you do when you see an ambulance is following your vehicle?",
+    "options": ["(a) Stop your vehicle", "(b) Give side, let it go", "(c) Increase speed", "(d) Overtake it"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "In what kind of road is most dangerous if the brake fails?",
+    "options": ["(a) Road going uphill", "(b) Road going downhill", "(c) Flat road", "(d) Gravel road"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "In which speed is the consumption of fuel high?",
+    "options": ["(a) Slow Speed", "(b) Medium Speed", "(c) High speed", "(d) All of the above"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "Which vehicle either going up or down, should give side?",
+    "options": ["(a) Moving upward.", "(b) Moving downward.", "(c) Both of them", "(d) None of them"],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "Which vehicle either going straight or turning round should be prioritized?",
+    "options": ["(a) Vehicle turning round", "(b) Vehicle going straight", "(c) Both of them", "(d) None of them"],
+    "correctAnswerIndex": 2
+  },
+  {"category": "B",
+    "type": "text",
+    "questionText": "Why should one keep on changing gear?",
+    "options": ["(a) To decrease speed", "(b) To increase speed", "(c) To blow horn", "(d) Both to increase or to decrease speed"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "Which side should be used for driving low speed vehicle slowly in Nepal?",
+    "options": ["(a) From middle side one prefers", "(b) From right", "(c) From left", "(d) Whatever"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "Which part in a four wheeler do the feet control?",
+    "options": ["(a) Clutch", "(b) Brake", "(c) Accelerator", "(d) All of the above"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "Which vehicle either moving upwards or moving downwards should be prioritized?",
+    "options": ["(a) Vehicle moving downward", "(b) Vehicle moving upward", "(c) Side shouldn't be given", "(d) Whosoever can, should go ahead"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "Which vehicle doesn't move on road?",
+    "options": ["(a) Ship", "(b) plane", "(c) Helicopter", "(d) All of the above"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "What should a driver do to know whether the speed of the vehicle ahead is low or high?",
+    "options": ["(a) By asking the driver", "(b) From the gestures of the driver", "(c) Guessing", "(d) None of these."],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "What does the oil pressure indicator show in vehicle?",
+    "options": ["(a) Diesel", "(b) Mobil", "(c) Water", "(d) Petrol"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "When should the seat belt be used?",
+    "options": ["(a) Those who sit at the front", "(b) As soon as the police see", "(c) while moving down", "(d) While moving up"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "Which vehicle should not be prioritized first while driving?",
+    "options": ["(a) Car", "(b) Motorcycle", "(c) Truck", "(d) All of the above"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "What should be done to allow vehicle coming from rear side to move ahead?",
+    "options": ["(a) By gesturing from hand", "(b) By turning on side light", "(c) Both A & B", "(d) None of them"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "In Nepal driving on which side is punishable?",
+    "options": ["(a) Right side", "(b) Left side", "(c) Both", "(d) None of them"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "What is the main function of left hand in four wheelers?",
+    "options": ["(a) To Brake", "(b) To control handle", "(c) To use hand brake", "(d) All of the above"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "What should you do when you see a fire brigade coming behind you?",
+    "options": ["(a) Stop the vehicle", "(b) Give side", "(c) Increase Speed", "(d) Ignore"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "What should one do while turning the vehicle?",
+    "options": ["(a) Turn the side light", "(b) Lower the speed", "(c) Look both sides", "(d) All of the above"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "What kind of vehicle should be prioritized?",
+    "options": ["(a) Vehicle moving downward", "(b) Vehicle moving upward", "(c) Both of them", "(d) Non of them"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "What should one do either to lower or increase the speed?",
+    "options": ["(a) Change gear", "(b) Press or release accelerator", "(c) Both of them", "(d) None of them"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "Which lane of the road should be used while driving vehicle at higher speed?",
+    "options": ["(a) Middle Lane", "(b) Side Lane", "(c) Both of them", "(d) None of them"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "In general, when should one turn on the headlight?",
+    "options": ["(a) Day Time", "(b) Dark/Night Time", "(c) On seeing traffic police", "(d) On having accident"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "What do we understand by temporary route permit?",
+    "options": ["(a) To drive on the permitted road only", "(b) To get permission to drive on the road which is not stated on the regular permit", "(c) To get permission to drive along the local road", "(d) To drive time't and again"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "What should one do before you get driving license?",
+    "options": ["(a) Not to drive the vehicle", "(b) Not to sit in the vehicle", "(c) Not to buy vehicle", "(d) None of the above"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "category": "B",
+    "type": "text",
+    "questionText": "What should one do to his or her vehicle while the VIP vehicle is on the road?",
+    "options": ["(a) To stop and give way", "(b) To blow horn", "(c) To drive vehicle", "(d) All of the above"],
+    "correctAnswerIndex": 0
+  },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "How should one behave to the traffic police when she or he stops the vehicle showing your fault?",
+      "options": [
+        "(a) To insist that you haven't done anything wrong",
+        "(b) To run away from the traffic police.",
+        "(c) To realize your mistake politely.",
+        "(d) To make other drivers your withness insisting that you haven't done anything wrong"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "How much fuel should be better to put in the vehicle?",
+      "options": [
+        "(a) Only a little",
+        "(b) Half Tank",
+        "(c) Fill the tank if fuel is finished.",
+        "(d) Full tank if possible"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "What kind of vehicle isn't allowed for use in public transportation?",
+      "options": [
+        "(a) Private vehicle",
+        "(b) Public vehicle",
+        "(c) Tourist vehicle",
+        "(d) All of the above"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "What do you mean by conductor/steward/attendant?",
+      "options": [
+        "(a) One who drives",
+        "(b) One who has got license to drive",
+        "(c) One who assists in vehicle",
+        "(d) All of the above"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "What kind of vehicle has L sign?",
+      "options": [
+        "(a) Government vehicle",
+        "(b) Learner's vehicle",
+        "(c) Diplomatic vehicle",
+        "(d) Public vehicle"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "How would one signal while overtaking the vehicle ahead?",
+      "options": [
+        "(a) Requesting him/her to stop by phone",
+        "(b) Gesturing with hand",
+        "(c) Blowing Horn",
+        "(d) None of the above"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "For what purpose should the looking glass be used?",
+      "options": [
+        "(a) To overtake",
+        "(b) To back",
+        "(c) Both of them",
+        "(d) Not of them"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "What quality should a driver have?",
+      "options": [
+        "(a) Patience",
+        "(b) Sweet speaking",
+        "(c) Friendly",
+        "(d) All of the above"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "What should be done for safe jounery?",
+      "options": [
+        "(a) Follow the traffic rules",
+        "(b) Drive randomly",
+        "(c) Drive speedly",
+        "(d) All of the above"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "What should be done while driving if anything is not visible during rain?",
+      "options": [
+        "(a) Switch wiper",
+        "(b) Speed up",
+        "(c) Stop the vehicle",
+        "(d) Blow horn"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "In which gear should the vehicle be parked on sloped road?",
+      "options": [
+        "(a) 1",
+        "(b) 2",
+        "(c) 3",
+        "(d) 4"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "Among the following options, which one isn't in electric vehicle?",
+      "options": [
+        "(a) Silencer pipe",
+        "(b) Accelerator",
+        "(c) Clutch",
+        "(d) Gear"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "What kind of vehicle is it when it has Ba 1 number plate?",
+      "options": [
+        "(a) Private motorcycle",
+        "(b) Government motorcycle",
+        "(c) Corporation's motorcycle",
+        "(d) Rental motorcycle"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "Among the offices mentioned below, in which office should one pay vehicular tax?",
+      "options": [
+        "(a) Internal Revenue Office",
+        "(b) Custom Office",
+        "(c) Transport Management Office",
+        "(d) Excise Duty Office"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "What should be done if embossed number plate doesn't work?",
+      "options": [
+        "(a) To change it as one likes",
+        "(b) To change after submitting an application at Transport Management Office",
+        "(c) To change after repairing",
+        "(d) All of the above"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "What kind of vehicle is it if it has ma 1 ng?",
+      "options": [
+        "(a) Private car",
+        "(b) Taxi",
+        "(c) Tempo",
+        "(d) Corporation's jeep"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "What is it called if the vehicle is registered in two or more than two person's name?",
+      "options": [
+        "(a) Vehicle registration",
+        "(b) Joint vehicle registration",
+        "(c) Vehicle buying or selling",
+        "(d) Vehicle ownership"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "What is the colour of Bluebook?",
+      "options": [
+        "(a) Black",
+        "(b) Red",
+        "(c) Blue",
+        "(d) Yellow"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "Which are the emergency vehicles?",
+      "options": [
+        "(a) Fire brigade",
+        "(b) Ambulance",
+        "(c) Hearse van",
+        "(d) All of the above"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "Which vehicle is used to douse the fire?",
+      "options": [
+        "(a) Fire brigade",
+        "(b) Ambulance",
+        "(c) Hearse van",
+        "(d) Taxi"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "In ability to differentiate which of the following color disqualifies a person from getting driving license?",
+      "options": [
+        "(a) Red",
+        "(b) White",
+        "(c) Black",
+        "(d) Blue"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "What is embossed number plate?",
+      "options": [
+        "(a) Number plate written with Enamel/Brocaded/carved letter",
+        "(b) Number plate written with etched/brocaded/carved letter",
+        "(c) Number plate written with raised letters",
+        "(d) All of the above"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "What is First Aid?",
+      "options": [
+        "(a) Taking the patient to hospital immediately.",
+        "(b) Bandaging in ordinary injuries",
+        "(c) Calling the doctor if he/she isn't present",
+        "(d) All of the above"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "Which vehicle is registered in the largest number in Nepal?",
+      "options": [
+        "(a) Car",
+        "(b) Bus",
+        "(c) Motorcycle",
+        "(d) E-rickshaw"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "Among the given vehicles, which one should not be registered?",
+      "options": [
+        "(a) Electric cycle",
+        "(b) Electric cycle with pedal",
+        "(c) Electric scooter",
+        "(d) Electric motorcycle"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "What happens if one changes the colour of vehicle with his/her own desire?",
+      "options": [
+        "(a) Looks good",
+        "(b) Looks clean",
+        "(c) Grows Expenses",
+        "(d) Deserves fine"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "Which vehicle is used to carry patients/sick people to hospital?",
+      "options": [
+        "(a) Fire brigade",
+        "(b) Ambulance",
+        "(c) Hearse van",
+        "(d) Taxi"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "What does a vehicle with a green number plate indicate?",
+      "options": [
+        "(a) Tourist Vehicle",
+        "(b) Government vehicle",
+        "(c) Corporate vehicle",
+        "(d) Taxi"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "Why is driving license necessary?",
+      "options": [
+        "(a) To drive vehicle",
+        "(b) To buy vehicle",
+        "(c) To sell vehicle",
+        "(d) None of them."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "What is vehicle registration certificate/blue book?",
+      "options": [
+        "(a) Certificate with complete description of vehicle.",
+        "(b) License to drive vehicle",
+        "(c) Certificate with permission to drive vehicle",
+        "(d) None of them"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "Which vehicle has black number plate?",
+      "options": [
+        "(a) Government vehicle",
+        "(b) Public vehicle",
+        "(c) Corporation vehicle",
+        "(d) Tourist vehicle"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "category": "B",
+      "type": "mcq",
+      "questionText": "With what documents should one submit application to the office if the driving license is lost?",
+      "options": [
+        "(a) Application and fee with traffic police recommendation letter",
+        "(b) Recommendation from municipal ward office",
+        "(c) Recommendation letter from District Administration Office",
+        "(d) None of the above"
+      ],
+      "correctAnswerIndex": 0
+    }
+  ]
